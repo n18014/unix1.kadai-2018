@@ -1,2 +1,2 @@
-sudo cat log | tall -n5
+sudo cat log | tail -n5
 
